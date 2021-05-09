@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		 <title>Poll Result</title>
+		 <title>Poll Chart Result</title>
 		<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>/assets/css/bootstrap.min.css">
 		<script type="text/javascript" src="<?php echo base_url();?>/assets/js/jquery-3.4.1.min.js"></script>
 		<script type="text/javascript" src="<?php echo base_url();?>/assets/js/bootstrap.min.js"></script>
